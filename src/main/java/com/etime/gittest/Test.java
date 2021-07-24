@@ -13,5 +13,8 @@ public class Test {
         System.out.println(111);
         System.out.println("这是好好呢");
         System.out.println("git 3");
+        System.out.println("git 3");
+        System.out.println("git 3");
+        System.out.println("push 3");
     }
 }
